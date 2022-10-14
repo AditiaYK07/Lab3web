@@ -3,12 +3,12 @@
 
 1. LIST
 * Menampilkan Ordered list
-berikut hasilnya
+- berikut hasilnya
 ![gambar 1](screen/L1.JPG)
 * Menampilkan Unorderd List
 berikut hasilnya
 ![gambar 2](screen/L2.JPG)
-Menampilkan Description List
+* Menampilkan Description List
 berikut hasilnya
 ![gambar 3](screen/L3.JPG)
 
